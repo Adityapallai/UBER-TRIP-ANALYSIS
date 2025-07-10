@@ -61,5 +61,5 @@ Project documentation (README)
 This project provides meaningful insights into Uber's operational performance, customer behavior, and time-based demand, enabling strategic improvements in pricing models, fleet management, and user experience.
 
 project screenshot/demo:
-example:https://github.com/Adityapallai/UBER-TRIP-ANALYSIS/blob/main/ube_sales_dashboard.png
+example:[https://github.com/Adityapallai/UBER-TRIP-ANALYSIS/blob/main/ube_sales_dashboard.png](https://github.com/Adityapallai/UBER-TRIP-ANALYSIS/blob/main/ube_sales_dashboard.png)
 
